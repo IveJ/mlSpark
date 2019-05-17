@@ -14,9 +14,5 @@ The result is the same as before, but the computation has now moved from the dri
 
 
 For more details on setting up a Pandas UDF, check out my prior post on getting up and running with PySpark.
-
-A Brief Introduction to PySpark
-
-PySpark is a great language for performing exploratory data analysis at scale, building machine learning pipelines, and…
-towardsdatascience.com	
+	
 This was an introduction that showed how to move sklearn processing from the driver node in a Spark cluster to the worker nodes. I’ve also used this functionality to scale up the Featuretools library to work with billions of records and create hundreds of predictive models.
